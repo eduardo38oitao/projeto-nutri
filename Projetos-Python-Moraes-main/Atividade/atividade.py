@@ -9,7 +9,7 @@ print(linha[1][1])
 print(tuple(linha))
 print(list(p1))
 
-palavra = "banana"
+palavra = "Mascara"
 lista = []
 
 for letra in palavra:
